@@ -6,6 +6,7 @@
 
 - `syl-md2ppt`
 - `muna-image-google`
+- `muna-video-google`
 
 ## 安装
 
@@ -13,6 +14,7 @@
 scoop bucket add hooziwang https://github.com/hooziwang/scoop-bucket
 scoop install syl-md2ppt
 scoop install muna-image-google
+scoop install muna-video-google
 ```
 
 ## 维护说明
