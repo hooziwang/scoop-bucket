@@ -1,19 +1,19 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hooziwang/syl-md2ppt/releases/download/v1.0.4/syl-md2ppt_1.0.4_windows_amd64.zip",
+            "url": "https://github.com/hooziwang/syl-md2ppt/releases/download/v1.0.5/syl-md2ppt_1.0.5_windows_amd64.zip",
             "bin": [
                 "syl-md2ppt.exe"
             ],
-            "hash": "1a9fdc6feaec4267373906b6e9b0aa743838ac6bc8ce2c0d6c06f0bdd34733d7"
+            "hash": "7cfa642eeb152f40102d6a329e54044d1ef738b4fc41438d2f60ff8178d80940"
         },
         "arm64": {
-            "url": "https://github.com/hooziwang/syl-md2ppt/releases/download/v1.0.4/syl-md2ppt_1.0.4_windows_arm64.zip",
+            "url": "https://github.com/hooziwang/syl-md2ppt/releases/download/v1.0.5/syl-md2ppt_1.0.5_windows_arm64.zip",
             "bin": [
                 "syl-md2ppt.exe"
             ],
-            "hash": "45def92ed01b2fae437ebcc600102a4674ce4facbc328f831ac6a16b87224bd5"
+            "hash": "8878699c0e40d0fe9eb44524451f4f722abc131d5d3e40d2637f5f3afdda6269"
         }
     },
     "homepage": "https://github.com/hooziwang/syl-md2ppt",
