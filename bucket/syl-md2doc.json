@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/hooziwang/syl-md2doc/releases/download/v0.1.0/syl-md2doc_0.1.0_windows_amd64.zip",
+            "bin": [
+                "syl-md2doc.exe"
+            ],
+            "hash": "7b40eb51eda0c7c10b7c500902f14fa6b298630cc8147de795ddad04a4a76daf"
+        },
+        "arm64": {
+            "url": "https://github.com/hooziwang/syl-md2doc/releases/download/v0.1.0/syl-md2doc_0.1.0_windows_arm64.zip",
+            "bin": [
+                "syl-md2doc.exe"
+            ],
+            "hash": "3cb1812101502ba96013a56703699937bc5f584dc398b6b633a1e2980a885c17"
+        }
+    },
+    "homepage": "https://github.com/hooziwang/syl-md2doc",
+    "description": "把 Markdown 文件批量转换为 Word(docx) 的命令行工具"
+}
