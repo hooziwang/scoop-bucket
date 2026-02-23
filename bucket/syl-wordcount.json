@@ -1,19 +1,19 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hooziwang/syl-wordcount/releases/download/v1.0.1/syl-wordcount_1.0.1_windows_amd64.zip",
+            "url": "https://github.com/hooziwang/syl-wordcount/releases/download/v1.0.2/syl-wordcount_1.0.2_windows_amd64.zip",
             "bin": [
                 "syl-wordcount.exe"
             ],
-            "hash": "d5e85fb3defcdd9322f80cf61afeffc42951c35af1ee034e2d2cfc0b37d8868a"
+            "hash": "33dafb25c15407cce893c4db581dec266b901ac7b452e43a6103776f42dc5848"
         },
         "arm64": {
-            "url": "https://github.com/hooziwang/syl-wordcount/releases/download/v1.0.1/syl-wordcount_1.0.1_windows_arm64.zip",
+            "url": "https://github.com/hooziwang/syl-wordcount/releases/download/v1.0.2/syl-wordcount_1.0.2_windows_arm64.zip",
             "bin": [
                 "syl-wordcount.exe"
             ],
-            "hash": "3973e6efad07f2f0d9759e4409cd9181db2a0fd75fcf5c54f1445eefdab02e61"
+            "hash": "25ca3670f4f3262c7d00dbd3431c3dc90deaaf9adea1ce2dbba6fdbaa1154cec"
         }
     },
     "homepage": "https://github.com/hooziwang/syl-wordcount",
