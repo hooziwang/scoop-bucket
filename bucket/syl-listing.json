@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/hooziwang/syl-listing/releases/download/v0.1.0/syl-listing_0.1.0_windows_amd64.zip",
+            "bin": [
+                "syl-listing.exe"
+            ],
+            "hash": "0813e29b68c1bde448881140aa1811d3f261bb5c868ab6b0f573e5c8898b1f45"
+        },
+        "arm64": {
+            "url": "https://github.com/hooziwang/syl-listing/releases/download/v0.1.0/syl-listing_0.1.0_windows_arm64.zip",
+            "bin": [
+                "syl-listing.exe"
+            ],
+            "hash": "ab293edc7528867a3047edea063687d8adf979e8911f535a6a63fca7d0e9b96e"
+        }
+    },
+    "homepage": "https://github.com/hooziwang/syl-listing",
+    "description": "基于 Go + Cobra 的 Amazon Listing 中英双语生成工具"
+}
