@@ -4,6 +4,7 @@
 
 ## 已收录 Manifest
 
+- `syl-listing`
 - `syl-md2ppt`
 - `muna-image-google`
 - `muna-video-google`
@@ -13,6 +14,7 @@
 
 ```powershell
 scoop bucket add hooziwang https://github.com/hooziwang/scoop-bucket
+scoop install syl-listing
 scoop install syl-md2ppt
 scoop install muna-image-google
 scoop install muna-video-google
