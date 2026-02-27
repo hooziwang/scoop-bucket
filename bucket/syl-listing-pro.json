@@ -16,6 +16,10 @@
             "hash": "f4c3a770093531a697f9c7f22a495d9ea8ee6ca470694c3a9b1d60fddb91d184"
         }
     },
+    "depends": [
+        "syl-md2doc",
+        "pandoc"
+    ],
     "homepage": "https://github.com/hooziwang/syl-listing-pro",
     "description": "多租户亚马逊 Listing 双语生成 CLI"
 }
