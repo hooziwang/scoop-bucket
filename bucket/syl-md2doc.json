@@ -1,19 +1,19 @@
 {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hooziwang/syl-md2doc/releases/download/v0.3.1/syl-md2doc_0.3.1_windows_amd64.zip",
+            "url": "https://github.com/hooziwang/syl-md2doc/releases/download/v0.3.2/syl-md2doc_0.3.2_windows_amd64.zip",
             "bin": [
                 "syl-md2doc.exe"
             ],
-            "hash": "6a461b434c569369d2abb88016f721babc84e528005b357949d6447f6ff9a1e1"
+            "hash": "b686f3122e50485b34e7e21b0e73c08f94477ee3d072195fd2806b91893be22c"
         },
         "arm64": {
-            "url": "https://github.com/hooziwang/syl-md2doc/releases/download/v0.3.1/syl-md2doc_0.3.1_windows_arm64.zip",
+            "url": "https://github.com/hooziwang/syl-md2doc/releases/download/v0.3.2/syl-md2doc_0.3.2_windows_arm64.zip",
             "bin": [
                 "syl-md2doc.exe"
             ],
-            "hash": "1015086598a420c3499cf76df7d509e94a8b4a29c8b1df62f36a795383863eda"
+            "hash": "8613ff7d8bc2e91d91ae93993cec55646a78efa56c6a3a058328b9004306e358"
         }
     },
     "homepage": "https://github.com/hooziwang/syl-md2doc",
