@@ -1,25 +1,25 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hooziwang/syl-listing-pro/releases/download/v0.1.0/syl-listing-pro_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/hooziwang/syl-listing-pro/releases/download/v0.1.1/syl-listing-pro_0.1.1_windows_amd64.zip",
             "bin": [
                 "syl-listing-pro.exe"
             ],
-            "hash": "c8248e7507155213bd67e3f6039a11b8efaf5bc9ae63dec2bcc74f1aba5d6dbc"
+            "hash": "c1976299f0a0295aa3e1a0efc0244f6256f305d2dbf15dadb1eea55134c174a8"
         },
         "arm64": {
-            "url": "https://github.com/hooziwang/syl-listing-pro/releases/download/v0.1.0/syl-listing-pro_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/hooziwang/syl-listing-pro/releases/download/v0.1.1/syl-listing-pro_0.1.1_windows_arm64.zip",
             "bin": [
                 "syl-listing-pro.exe"
             ],
-            "hash": "f4c3a770093531a697f9c7f22a495d9ea8ee6ca470694c3a9b1d60fddb91d184"
+            "hash": "0f6a9057e92214e06792ea8e036939d66a42b9c09dc7c082917b9d8066a49ccc"
         }
     },
+    "homepage": "https://github.com/hooziwang/syl-listing-pro",
+    "description": "多租户亚马逊 Listing 双语生成 CLI",
     "depends": [
         "syl-md2doc",
         "pandoc"
-    ],
-    "homepage": "https://github.com/hooziwang/syl-listing-pro",
-    "description": "多租户亚马逊 Listing 双语生成 CLI"
+    ]
 }
