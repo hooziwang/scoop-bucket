@@ -1,19 +1,19 @@
 {
-    "version": "0.1.11",
+    "version": "0.1.12",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hooziwang/syl-listing-pro/releases/download/v0.1.11/syl-listing-pro_0.1.11_windows_amd64.zip",
+            "url": "https://github.com/hooziwang/syl-listing-pro/releases/download/v0.1.12/syl-listing-pro_0.1.12_windows_amd64.zip",
             "bin": [
                 "syl-listing-pro.exe"
             ],
-            "hash": "120960ef46b0c618c271d464175906ea90ec880f1e1b3c2b9af303c8a9dfcc50"
+            "hash": "bedafbaaa158ea5a007a88ed93e2089c1fc1806ef94d07019b7bf23afb9658be"
         },
         "arm64": {
-            "url": "https://github.com/hooziwang/syl-listing-pro/releases/download/v0.1.11/syl-listing-pro_0.1.11_windows_arm64.zip",
+            "url": "https://github.com/hooziwang/syl-listing-pro/releases/download/v0.1.12/syl-listing-pro_0.1.12_windows_arm64.zip",
             "bin": [
                 "syl-listing-pro.exe"
             ],
-            "hash": "6fa2f1cf406bb6b8768a8b0c4cf7b2abd7021d85f5833a19e963c5c6287a4c8b"
+            "hash": "4e46e1d7f526e11cf87860494ad174ce6c7d9279214f1e5b0e59661a7d6de55f"
         }
     },
     "homepage": "https://github.com/hooziwang/syl-listing-pro",
